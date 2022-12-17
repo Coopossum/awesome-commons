@@ -14,7 +14,7 @@
 - [Gardening](#gardening)
 - [Manufacturing](#manufacturing)
 - [Media](#media)
-- [Music](#section)
+- [Music](#music)
 - [Organisations](#organisations)
 - [Research](#research)
 - [Sports](#sports)
