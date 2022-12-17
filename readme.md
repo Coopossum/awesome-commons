@@ -5,8 +5,21 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Agriculture](#agriculture)
+- [Architecture](#architecture)
+- [Education](#education)
+- [Environment](#environment)
+- [Food](#food)
+- [Furniture](#furniture)
+- [Gardening](#gardening)
+- [Manufacturing](#manufacturing)
+- [Media](#media)
+- [Music](#section)
+- [Organisations](#organisations)
+- [Research](#research)
+- [Sports](#sports)
+- [Technology](#technology)
+- [Vehicles](#vehicles)
 
 
 ## Agriculture
@@ -110,6 +123,12 @@
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 
 
+## Music
+
+### Synthesizers
+- [Winterbloom](https://winterbloom.com/shop)
+
+
 ## Organisations
 
 ### Decision-making
@@ -123,12 +142,6 @@
 ### Crowdfunding
 
 - [Goteo](https://en.goteo.org/)
-
-
-## Music
-
-### Synthesizers
-- [Winterbloom](https://winterbloom.com/shop)
 
 
 ## Research
