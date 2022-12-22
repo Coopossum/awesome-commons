@@ -7,6 +7,7 @@
 
 - [Agriculture](#agriculture)
 - [Architecture](#architecture)
+- [Books](#books)
 - [Education](#education)
 - [Environment](#environment)
 - [Food](#food)
@@ -20,6 +21,7 @@
 - [Sports](#sports)
 - [Technology](#technology)
 - [Vehicles](#vehicles)
+- [Videogames](#video-games)
 
 
 ## Agriculture
@@ -45,6 +47,11 @@
 - [WikiHouse](https://www.wikihouse.cc/)
 - [OpenStructures](https://openstructures.net/)
 - [Open Building Institute](https://www.openbuildinginstitute.org/)
+
+
+## Books
+
+- [Open Library](https://openlibrary.org/)
 
 
 ## Education
@@ -273,6 +280,13 @@
 ### Rovers
 
 - [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover)
+
+
+## Video games
+
+### Controllers
+
+- [Input Labs](https://inputlabs.io/)
 
 
 ## Contribute
