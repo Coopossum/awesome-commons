@@ -87,6 +87,7 @@
 - [Park Slope Food Coop](https://www.foodcoop.com/)
 - [La Louve (FR)](https://cooplalouve.fr/)
 - [SuperCoop (DE)](https://supercoop.de/)
+- [Collaborative map of food coops](https://facilmap.org/t7EJKFF10A7Eup)
 
 
 ## Furniture
@@ -158,7 +159,10 @@
 - [Public Library of Science](https://plos.org/)
 - [Social Science Open Access Repository](https://www.gesis.org/en/ssoar/home)
 
-### Laboratory equipment
+### Laboratories
+- [Counter Culture Labs](https://www.counterculturelabs.org/)
+
+### Equipment
 
 - [GaudiLabs](https://www.gaudi.ch/GaudiLabs/?page_id=19)
 
