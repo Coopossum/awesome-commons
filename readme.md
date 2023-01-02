@@ -133,6 +133,12 @@
 
 ## Music
 
+### Songs
+- [Jamendo](https://www.jamendo.com/start)
+
+### Rights management
+- [C3S](https://www.c3s.cc/en/#home)
+
 ### Synthesizers
 - [Winterbloom](https://winterbloom.com/shop)
 
@@ -175,6 +181,10 @@
 
 
 ## Sports
+
+### Gyms
+
+- [Bristol Co-operative Gym](https://bristolcooperativegym.org/)
 
 ### Kayaks
 
