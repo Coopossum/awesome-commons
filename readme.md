@@ -89,6 +89,9 @@
 - [SuperCoop (DE)](https://supercoop.de/)
 - [Collaborative map of food coops](https://facilmap.org/t7EJKFF10A7Eup)
 
+### Food delivery
+
+- [CoopCycle](https://coopcycle.org/en/)
 
 ## Furniture
 
@@ -179,6 +182,9 @@
 
 - [Community Exchange System](https://www.community-exchange.org/home/)
 
+### Neighbourhood
+
+- [Klimagenossenschaft (DE)](https://klimagenossenschaft.squarespace.com/)
 
 ## Sports
 
