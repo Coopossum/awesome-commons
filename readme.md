@@ -119,6 +119,10 @@
 
 - [Thingiverse](https://www.thingiverse.com/)
 
+### Lasercutting
+
+- [Lasersaur](https://www.lasersaur.com/)
+
 ### Tools
 
 - [MultiMachine](https://opensourcemachine.org/)
@@ -219,68 +223,72 @@
 
 - [Elementary](https://elementary.io/)
 
-#### Smartphones
+### Smartphones
 
-##### Devices
+#### Devices
 
 - [Librem 5](https://puri.sm/products/librem-5/)
 - [PinePhone](https://puri.sm/products/librem-5/)
 
-##### Operating systems
+#### Operating systems
 
-###### Alternatives to Android
+##### Alternatives to Android
 
 - [postmarketOS](https://postmarketos.org/)
 - [Ubuntu Touch](https://ubuntu-touch.io/)
 
-#### Tablets
+### Tablets
 
-##### Devices
+#### Devices
 
 - [PineTab](https://www.pine64.org/pinetab/)
 
-##### E-ink devices
+#### E-ink devices
 
 - [PineNote](https://www.pine64.org/pinenote/)
 
-#### Smartwatches
+### Smartwatches
 
 - [PineTime](https://www.pine64.org/pinetime/)
 
-#### Keyboards
+### Keyboards
 
 - [System76 Launch Keyboards](https://system76.com/accessories/launch)
 
-#### Cameras
+### Cameras
 
 - [Axiom Beta](https://www.apertus.org/axiom-beta)
 - [Ephel](https://www.elphel.com/)
 
-#### Microcontrollers
+### Microcontrollers
 
 - [Arduino](https://www.arduino.cc/)
 
-#### Microscopes
+### Microprocessors
+
+- [RISC-V](https://riscv.org/)
+
+### Microscopes
 
 - [OpenSPIM](https://openspim.org/)
 - [mesoSPIM](https://mesospim.org/)
 - [UC2-GIT](https://github.com/openUC2/UC2-GIT)
 
-#### Internet
+### Internet
 
-##### WiFi
+#### WiFi
 
 - [Freifunk](https://freifunk.net/en/)
 
-##### Code hosting
+#### Code hosting
 
 - [Codeberg](https://codeberg.org/)
 
-#### Machine vision
+### Machine vision
 
 - [OpenMV](https://github.com/openmv/openmv)
 
-#### Hacking
+### Hacking
 
 -  [Hackerspaces](https://hackerspaces.org/)
 
