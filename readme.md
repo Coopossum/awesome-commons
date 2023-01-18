@@ -1,4 +1,4 @@
-# Awesome Commons
+# Awesome Commons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of commons-based alternatives for all areas of life
 
@@ -93,6 +93,10 @@
 
 - [CoopCycle](https://coopcycle.org/en/)
 
+### Farmer's markets
+
+- [Open Food Network](https://openfoodnetwork.org/)
+
 ## Furniture
 
 ### Tables
@@ -108,6 +112,11 @@
 
 
 ## Manufacturing
+
+### Prototyping
+
+- [Wikifactory](https://wikifactory.com/)
+
 
 ### 3D printing
 
@@ -250,6 +259,7 @@
 ### Smartwatches
 
 - [PineTime](https://www.pine64.org/pinetime/)
+- [ZSWatch](https://github.com/jakkra/ZSWatch)
 
 ### Keyboards
 
